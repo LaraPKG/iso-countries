@@ -1,0 +1,10 @@
+* text=auto
+
+.gitattributes text
+.gitignore text
+.gitconfig text
+.gitmodules text
+
+*README* text
+*.php text
+*.json text
