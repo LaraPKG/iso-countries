@@ -3,6 +3,8 @@
 
 A simple PHP mapper for [ISO](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) country data.
 
+> Country data is available within the `data` folder: in CSV, JSON and ODS format for convenience.
+
 ### Usage
 
 ```php
