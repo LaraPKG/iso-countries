@@ -6,8 +6,7 @@
     "license": "MIT",
     "require": {
         "php": "^8.0",
-        "illuminate/support": "^v8.0.0",
-        "league/csv": "^9.7"
+        "illuminate/support": "^v8.0.0"
     },
     "require-dev": {
         "roave/security-advisories": "dev-latest",
