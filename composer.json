@@ -2,7 +2,7 @@
     "name": "larapkg/iso-countries",
     "type": "library",
     "description": "A map of ISO countries and their codes",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "license": "MIT",
     "require": {
         "php": "^8.0",
